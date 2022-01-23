@@ -1,0 +1,59 @@
+<style>
+body {
+    font-family: ;
+    margin: 0px;
+}
+#top {
+    text-align: center;    
+}
+
+#image img {
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+
+#logo{color:rgb(110, 179, 7);
+        background-color: rgb(61, 50, 50);
+        display: inline;
+        font-size: 40px;
+        font-weight: bold;
+        padding: 8px;
+        margin-top: 18px;
+    }
+
+#logo-name{
+
+    font-size: 40px;
+    font-weight: bold;
+    margin:16px;
+
+}
+
+#navigation a{
+    color: brown;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+#navigation a :hover{
+    color:rgb(110, 179, 7);
+}
+#image img {
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 100px;
+}
+
+#main {
+    width: 800px;
+    margin: auto;
+}
+
+#footer {
+    text-align: center;
+    color: gray;
+    padding: 16px;
+}
+
+</style>
